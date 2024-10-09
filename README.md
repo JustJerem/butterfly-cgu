@@ -22,19 +22,31 @@ Conformément aux réglementations en matière de protection des données, vous 
 - **Droit de suppression** : Si, dans le futur, l'application venait à collecter des données personnelles, vous aurez le droit de demander la suppression de ces informations.
 - **Droit d’accès** : Vous avez le droit de demander l’accès à toutes les informations personnelles vous concernant que nous pourrions collecter à l’avenir.
 - **Droit de rectification** : Vous avez le droit de corriger toute information personnelle que nous pourrions collecter et qui pourrait être inexacte ou incomplète.
+- **Droit de porter plainte** : Vous avez le droit de déposer une plainte auprès d'une autorité de contrôle compétente (comme la CNIL en France) si vous estimez que vos droits relatifs à la protection des données ne sont pas respectés.
+
+## Base Légale pour le Traitement des Données
+Même si l’application **"Guide des Papillons de France"** ne collecte aucune donnée à ce jour, si cela venait à changer, nous nous conformerions aux bases légales prévues par le **RGPD** (Règlement Général sur la Protection des Données). Cela inclurait le consentement de l’utilisateur, l’exécution d’un contrat, ou l’intérêt légitime dans les cas appropriés. En l’état, aucun traitement n’est effectué.
+
+## Référence aux Droits sous le RGPD
+Si vous êtes situé(e) dans l'Union Européenne, vous disposez des droits suivants sous le **RGPD** :
+- Le droit d’être informé sur la manière dont vos données sont utilisées (transparence).
+- Le droit de demander l’accès, la rectification ou la suppression de vos données personnelles.
+- Le droit de restreindre ou d’opposer le traitement de vos données.
+- Le droit à la portabilité des données, vous permettant de transférer vos informations à un autre service.
+- Le droit de porter plainte auprès d'une autorité de contrôle (CNIL en France) si vous estimez que vos droits ne sont pas respectés.
 
 ## Rétention des Données
 Comme l’application **"Guide des Papillons de France"** ne collecte aucune donnée personnelle, aucune information n’est stockée ou retenue. Si cela venait à changer, nous indiquerons clairement la durée pendant laquelle ces données seront conservées et les critères utilisés pour déterminer cette durée.
 
 ## Responsable du Traitement des Données
 Le responsable du traitement des données est :  
-**Nom : Jérémie Guillot**  
-**Contact : papillons-appli@outlook.com**  
+**Nom : Jeremie Guillot**  
+**Contact : [papillons-appli@outlook.com]**  
 Même si nous ne traitons actuellement aucune donnée, cette information est fournie afin de garantir une transparence totale.
 
 ## Délégué à la Protection des Données (DPO)
 Actuellement, l’application **"Guide des Papillons de France"** ne dispose pas de Délégué à la Protection des Données car nous ne traitons aucune donnée personnelle. Toutefois, pour toute question relative à la confidentialité ou à la gestion des données, vous pouvez nous contacter à :  
-**Contact : papillons-appli@outlook.com**
+**Contact : [papillons-appli@outlook.com]**
 
 ## Sécurité
 Bien que nous ne collectons aucune donnée, nous nous engageons à protéger l'intégrité de l'application. Nous prenons des mesures pour sécuriser l'application contre les accès non autorisés, les altérations ou les destructions de données éventuelles.
@@ -44,7 +56,7 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 
 ## Contact
 Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité, n'hésitez pas à nous contacter via l'onglet **"Nous Contacter"** dans l'application ou à l'adresse suivante :  
-**Contact : papillons-appli@outlook.com**
+**Contact : [papillons-appli@outlook.com]**
 
 **Dernière mise à jour : 9 octobre 2024**
 
